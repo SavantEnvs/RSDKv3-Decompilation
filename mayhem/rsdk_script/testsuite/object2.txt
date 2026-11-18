@@ -1,0 +1,24 @@
+//-----------------Switch Object-----------------//
+#alias Object.Value0:State
+
+function TestFunc
+	State=3
+endfunction
+
+sub ObjectMain
+	switch State
+	case 0
+		State=1
+		break
+	case 1
+		State=2
+		break
+	default
+		State=0
+		break
+	endswitch
+	while State<4
+		State++
+	loop
+	CallFunction(TestFunc)
+endsub

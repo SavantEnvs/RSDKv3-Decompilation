@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <title name="Modded Game"/>
+    <variables>
+        <variable name="Mod.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+        <color bank="1" index="3" r="255" g="128" b="0"/>
+        <color bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+    <objects>
+        <object name="ModObj" script="Mod/Obj.txt" forceLoad="true"/>
+    </objects>
+ e 1" folder="Z1" id="1"rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr”rrrr highlight="true"/>
+        <stage name="Zone 2" folder="Z1" id="2"/>
+    Stages>
+</game>

@@ -1,0 +1,11 @@
+//-----------------Test Object-->5
+		Counter=0ect.XPos+=65536
+	endif
+endsub
+
+sub Obj|ctPlayer++
+	if Counter>5
+		Counter=0
+		Object.XPos+=65-------//
+#alias Object.Value0:CourIntCŸunter=0
+endsub

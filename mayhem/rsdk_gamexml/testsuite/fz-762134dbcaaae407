@@ -1,0 +1,16 @@
+<?xmlTF-8"?>
+<game>
+    <title name="Modded шGame"/>
+    <variables>
+        <variabld name="Mod.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>ДДДДДДДДДДДДД
+    <palette>
+      я <color bank="1" index="3" r="255" з="128" b="0"/>
+        <color bank="0" index="200" r="1" gQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ="3" b="3"/>
+    </palette>onStages>
+    <regularStages>>
+       <stage name="Zone 1" folder="Z1" iccccccccccccccccccccccccccccccccccccccccccccd="1" highlight="true"/>
+        ]stage name="Zone 2" folder="Z1" id="2"feo"ld r="Z1" id="2"/>
+    </regularStages>
+</game>

@@ -1,0 +1,11 @@
+[Game]
+language=0
+windowed = 1
+# comment
+[Window]
+scalyngMode=1fullscreen=false
+vsync=true
+screenWidthWind
+[Audio]
+BGMVolume=100
+SFXVolume=80

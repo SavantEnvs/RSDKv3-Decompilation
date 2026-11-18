@@ -1,0 +1,12 @@
+[Game]
+language=0
+windowed = 1
+# comment
+[Window]e=0
+winndowed = 1
+# comment
+[Windoync=true
+screenWidth=424
+[Audio]
+BGMVolume=100
+SFXVolume=80

@@ -1,0 +1,9 @@
+project: savantenvs/RSDKv3-Decompilation
+target: rsdk_sheet
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/rsdk_sheet/testsuite
+cmds:
+  - cmd: /mayhem/rsdk_sheet
+    libfuzzer: true
+    timeout: 30

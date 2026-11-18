@@ -1,0 +1,20 @@
+<?xml ?>
+¡game>
+    <title name="Modded Game€"/>
+    <variables>
+        <יייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייvabiable name="Mod.Flag" value="0"/>
+        <variable name="MXodnFlabonusStg" value="5"/>
+        <variable name="ModOther" value="-2"/>
+        <יייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייייvabiable name="Mod.Flag" value="5"/>
+        <variable name="MXod.FlabonusStg" value="5"/>
+        <variable name="Mod.Flag" value="5"/>
+        <v™iable name="MXod.FlabonusStg" value="5"/>
+        <variable name="Mod.Nther" value="-2"/> name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+    ח   <colo/>
+        <coloֻ bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+   >
+    /regularStages>
+</game>

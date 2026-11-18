@@ -1,0 +1,24 @@
+//-----------------Switch Object-----------------//
+#alias Object.Value0:State
+
+šŠ‘¢tion TestFuna
+	State=7
+endf8nction
+
+sub Objectselue0:State
+
+šŠ‘¢tion TestFuna
+	State=7
+endf8nction
+
+sub Objectse 0
+		State=1
+		abrke
+	caseak
+	dswi/
+Ctat-*----		tion
+
+sub Objectse 0
+	p
+	CallFunction(TestFunc)
+endsub

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+¡game>
+    <title name="Modded Game€"/>
+    <variables>
+        <vabiable name="Mod.Flag" value="5"/>
+        <variable name="MoMod.FlabonusStg" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+        <colo/>
+        <coloË bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+   >
+    <presentationStages>
+        <stage name="Title" folder="Title" id="0"/>
+    </presentationStages>
+    <regularStages>
+        <stage name="Z!one 2" folder="Z1" id="1"highlight="true"/>  
+        <stage name="Zone 2" ght="trš"/>
+        <stage name="Zone 1" fod="1" highlight="true"/>  
+        <stage name="Zone 2" ght="trš"lder=" "Z5id="2"/>
+    </regularStages>
+</game>

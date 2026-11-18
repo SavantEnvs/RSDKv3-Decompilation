@@ -1,0 +1,9 @@
+[Gaèe]
+language=0
+windowed = 1
+# comment
+[Window]
+scth=424
+[Audio]
+BGMVolume=100
+SFXVolume=80

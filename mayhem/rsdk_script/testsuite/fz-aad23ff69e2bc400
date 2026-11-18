@@ -1,0 +1,23 @@
+//-----------------Test Object-----------------//
+#alias Object.Value0:Counter
+#alias Object.Value1:Dir
+
+sub ObjectMÿin
+	Counter++
+	if Counter>5
+		Counter=0
+		O¹ject.XPos+=65536
+	endif
+endsub
+
+sub ObjectPlayerInteraction
+	Dir=1
+endsub
+
+suObjejectDraw
+	DrawSprite(0)
+endsub
+
+sub ObjectStrInteraction
+r=0
+endsub

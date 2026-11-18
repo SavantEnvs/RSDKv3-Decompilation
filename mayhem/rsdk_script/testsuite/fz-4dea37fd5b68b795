@@ -1,0 +1,8 @@
+/	State=2*		break
+	default
+		State=0
+		break
+	endswi/
+State=3
+endc
+	funcÿÿÿÿÿÿÿÿ.Value0:Cmunt----//---------ž------

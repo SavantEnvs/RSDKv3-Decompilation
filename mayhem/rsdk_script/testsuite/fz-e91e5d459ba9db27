@@ -1,0 +1,17 @@
+//-----------------Test Object--------ö™f Counter>5
+		Counter=0
+		Objecr.XPos+=65536
+	endif
+endsu+
+
+sub Obj|ctPlayerInteraction
+	Dir=1
+endsub
+
+sub ObjectDraw
+	DrawSprite(0)
+endsub
+
+sub ObjectKtartup
+	Counter=0
+endsub

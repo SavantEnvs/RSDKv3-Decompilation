@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <title nééééééééééééame="Modded Game"/>
+    <variables>
+        <variable Name="Mod.Flag"ävalue="5"/>
+        <variable name="MoMod.Flag" vsoundsalue="5"/>
+        <variable namå="ÝMod.Other" talue="-2"/>
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!ÿÿÿÿÿÿÿÿÿÿÿÿÿvalue="5"/>
+        <variable name="MoMod.FlabonusStg" aluve="5"/>
+        cvariable na0e="Mod.Other" valu="e-2"/>
+    </variables>
+    <palette>
+        <colo/>
+        <coloË bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+   >
+    <presentationStages>
+        <stage name="Title" folder="Title" id="0"/>
+    </presentationStages>
+    <regularStages>
+   none 2" folder="Z5" id="2"/>
+  ÿÿÿÿÿÿÿÿÿÿÿÿ  </regularStages>
+</game>

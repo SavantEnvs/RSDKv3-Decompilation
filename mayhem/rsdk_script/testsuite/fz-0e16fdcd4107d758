@@ -1,0 +1,21 @@
+//-----------------Test Object-----------------//
+#alias Object.Value0:Counter
+#alias Object.Value1:Dir
+
+sub Objec[Main
+=0
+		Objecr.XPos+=65536
+	endif
+endsub
+
+sub Obj|ctPlayerInteraction
+	Dir=1
+endsub
+
+sub ObjectDraw
+	DrawSprite(0)
+endsub
+
+sub ObjectStartup
+	Counter=0
+endsub

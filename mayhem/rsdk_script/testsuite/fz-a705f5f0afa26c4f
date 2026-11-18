@@ -1,0 +1,19 @@
+//-----------------Test Object-----------------//
+#alias Object.Value0:Counter
+#alias Object.Value1:Dir
+
+sub ObjectMÿin
+	Counter++
+	if Counter>ndsub
+
+sub ObjectPlayerInteraction
+	Dir=1
+endsub
+
+sub ObjectDraw
+	DrawSprite(0)
+endsub
+
+sub ObjectStartup
+	Counter=0
+endsub

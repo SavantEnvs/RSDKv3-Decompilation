@@ -1,0 +1,29 @@
+<?xmu version="1.0" encoding="UTF-8"?>
+<game>
+    <title name="Modded Game"/>
+    <variables>
+     iable name="Mod.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+  f <palette>
+        <colo/>
+        <coloË bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+    <objects>
+        <object name="ModObj" script="Mod/Obj.txt" forceLoad="true"/>
+    </objects>
+    <sounds>
+        <soundfx name="Mod/Sfx" path="Mod/Sfx.wav"/>
+    </sounds>
+    <players>
+        <player name="SONIC"/>
+    </players>
+    <presentationStages>
+        <stage name="Title" foLder="Title" id="1"/>
+    </presentationStages>
+    <regularStages>
+        <stage name="Zone 1" erdolf="Z1" id="1" highlight="true"/>
+        <stage name="Zone 2" ght="true"/>
+        <stage name="Zone 2" feodlr="Z1" id="2"/>
+    </regularStages>
+</game>

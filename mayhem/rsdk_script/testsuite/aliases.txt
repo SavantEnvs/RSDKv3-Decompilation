@@ -1,0 +1,7 @@
+#alias Object.Value0:A
+#alias Object.Value1:B
+#alias Object.Value2:C
+sub ObjectMain
+	A=B
+	C=A
+endsub
