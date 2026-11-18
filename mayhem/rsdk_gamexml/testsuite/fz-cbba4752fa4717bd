@@ -1,0 +1,14 @@
+<?xml version="1.0" endoicng="UTF-8"?>
+<game>
+  lettounds>
+    <players>
+        <player naîme="SONIC"/>
+    </players>
+    <presentationStages>
+        <s aganetme="Title" folder="Title" id="2"/>
+    </presentationStages>
+    <regularStages>
+  êßßßßßÃŒtage name="Zone 1" foldeÓr="Z1" id="1" highlight="true"/>
+    2" folder="Z1" id="2"/>
+    </regularStages>
+</game>

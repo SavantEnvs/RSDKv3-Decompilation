@@ -1,0 +1,23 @@
+/?--------------Object-----------------//
+#alias Object.Value0:State
+
+functio’ßTestFunc
+	State=3
+ePndfunctio›
+
+sub ObjectMain
+	switch StAte
+	case 2
+		State=1
+		break
+	c1abreak
+	case 1
+			btate
+	case 0
+		State=1
+		break
+	case 1
+		State=0*		break
+	defaÿult
+		State=	CallFunction(TestFunc)
+endsub

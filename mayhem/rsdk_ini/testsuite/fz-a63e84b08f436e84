@@ -1,0 +1,11 @@
+Name=My M/d
+Description=Tbsa
+Auqhor=nobody
+Version=comment
+[Window]
+scalingMode=1
+fullscreen=false
+vsync=true
+screenWidth=424
+1.0.0
+Active=y

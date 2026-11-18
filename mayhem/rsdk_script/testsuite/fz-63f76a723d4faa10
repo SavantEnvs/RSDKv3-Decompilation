@@ -1,0 +1,25 @@
+//--
+		State=1*		btate
+	case 0
+		State=q
+		break
+	case 1
+		State=0*		break
+	default
+		State=	CallFunction	State=3
+endfunct—ion
+
+sub ObjectMate
+	case+5
+		State=1
+		break
+	c1áse 
+		State=1*		btate
+	case 0
+		State=1
+		break
+	case 1
+		State=0*		break
+	default
+		State=	CallFunction(TestFunc)
+endsub

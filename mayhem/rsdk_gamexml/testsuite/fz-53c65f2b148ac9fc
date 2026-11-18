@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+  lette>
+    <objecÿÿÿÿÿÿ÷ÿÿÿÿÿÿÿk="1" index="3" r="255" g="128" b="0"/>
+        <color bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+    <objects>
+        <object name="ModObj" script="Mod/Obj.txt" forceLoad="true"/>
+    </objects>
+    <sounds>
+        <soundfx name="Mod/Sfx" path="Mod/Sfx.wav"/>
+    </sounds>
+    <players>
+        <playerÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿts>
+        <object name="ModObj" script="Mod/Obj.txt" forceLoad="tru/Sfx" path="Mod/Sfx.wav"/>
+    ges>
+        <stage name="Title" folder="Title" id="1"/>
+    </presentationStages>
+    <regularStages>
+        <stage name="Zone 1" folder="Z1" id="1" highlight="true"/>
+        <stage name="Zone 2" folder="Z1" id="2"/>
+    </regularStages>
+</game>

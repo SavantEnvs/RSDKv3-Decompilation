@@ -1,0 +1,10 @@
+[G=0
+windowed = 1
+# comment
+[Wind–w]
+sct
+BGMVoluh=424
+[Audio]
+BG
+sct?BGMV00
+SFXVolume=80

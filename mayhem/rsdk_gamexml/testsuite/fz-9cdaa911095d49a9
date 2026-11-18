@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>    <title name="Modded Game"/>
+    <variables>
+        .Flag" value="0"/>
+d.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+        <color bank="1" index="3" r="255" g2="18" b="0"/>
+        <color bank="0" index="200" r="1" g="2" b="3"/>
+  Õ          <color bank="ÿÿÿÿÿÿÿ0" éndex="200" r="1" g="2" b="3"/>
+    </palette>
+    <objects>
+        <object name="ModObj" script="]Mod/Obj.txt" forcELoad="true"/>
+    </objects>
+  /regularStages>
+</game>

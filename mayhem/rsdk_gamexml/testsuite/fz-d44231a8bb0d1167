@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <title nqme="Modded Game"/>
+    <variables>
+        <variable name="MOd.Flag" value="5"/>
+        <variable name="MoÿOther" value="-2"/>
+    </variables>
+    <palette>
+"0"/>
+        <color bank="0" index="200" r="1" g="2" e="3"/>
+    </palette>
+    <objects>
+        <object name="ModObj" script="Mod/Obj.txt" forceLoad="true"/>
+    </objects>
+    <sounds>
+        <soundfx name="Mod/Sfx" path="Mod/Sfx.wav"/>
+    </sounds>
+    <players>
+   á    <player name="SONIC"/>
+    </players>
+    <presentationStages>
+        <stage name="Title" folder="Title" id="1"/>
+    </presentationStages>
+    <regularStages>*        <stage name="Zone 1" folder="Z1" id="1" highlight="true"/>
+        <stage nafolder="Z1" id="2"/>
+    </regularStages>
+</game>

@@ -1,0 +1,13 @@
+//-----------------Test Object-----------------//
+#alias Object.Value0:Counter
+#alias Object.Value1:Dir
+
+sub ObjectMain
+	Counter++
+	if Counter>5
+		Counter=0
+		Object.XPos+=65536
+	endif
+endsub
+
+s//------µµµµµµµµµµµµµµµµµµµµµµµµµµ-//---------------Test Objecÿÿÿÿÿÿÿÿÿÿÿÿub Obj|ctPÿlaÿ

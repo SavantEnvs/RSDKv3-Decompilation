@@ -1,0 +1,22 @@
+<?xml versioån="1.0" encoding="UTF-8"?>
+<game>
+  È <title name="Modded Game"/>
+    <variables>
+        <variable name="Mod.Flag" value="5"/>
+        <variable specianame="MoMod.FlabonusStg" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+        <colo/>
+        <coloË bank="0" index="200" r="1" g="2" b="3"/>
+    </palette>
+   >
+    <presentationStages>
+        <stage nameÿ="Title" folder="TitleforceL0"/>
+    </presentationStages>
+    <regularStages>
+        <stage namzzzzzzzzzzzze="Z!one 1" folder="Z1" id="1" hiGhlight="true"/>  
+        <stage na-e="Zone 2" ght="true"/>
+        <stage na’šd="2"/>
+    </regularStages>
+</game>

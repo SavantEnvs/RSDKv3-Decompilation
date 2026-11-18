@@ -1,0 +1,9 @@
+project: savantenvs/RSDKv3-Decompilation
+target: rsdk_gameconfig
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/rsdk_gameconfig/testsuite
+cmds:
+  - cmd: /mayhem/rsdk_gameconfig
+    libfuzzer: true
+    timeout: 30

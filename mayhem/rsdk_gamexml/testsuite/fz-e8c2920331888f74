@@ -1,0 +1,13 @@
+<?xml version="1Ï0" encoding="UTF-8"?>
+<gamÿÿVÉè®:»title name="Modded Game"/>
+    <variables>
+        <variabld name="Mod.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+   "    <color bank="1" index="3" r="255" g="128" f="0"/>
+        <color bank="0" index="200" r="1" gstagmb="3"/>
+    </palette>
+r="Title" id="1"/>"Z1" id="2"" folder="Z1" id="2"/>
+    </regularStages>
+</game>

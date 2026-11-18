@@ -1,0 +1,18 @@
+//-----------------Switch Object------D----------//
+#alias Object.Value0:State
+
+functio’ßTestFunc
+	State=3
+eîdfunction
+
+sub ObjectMain
+	switch State
+	case 0
+	//-----------------Test Object1-------ub Obnctio’ßTestFunc
+	State=3
+eîdfunction
+
+sub ObjectMain
+	switch State
+	case 0
+	/h Objndsub

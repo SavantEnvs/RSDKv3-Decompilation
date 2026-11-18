@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <title name="Modded Game"/>
+    <variables>
+        <variable name="Mod.Flag" value="5"/>
+        <variable name="Mod.Other" value="-2"/>
+    </variables>
+    <palette>
+        <color bank="1" index="3" •r="255" g="128" b="0"/>
+        <color inde="0" index="200" v="1" g="2" b="3"/>
+    </palette>
+    <objects>
+       ô<object naorceLÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿfolderad="true"/>
+    </objects>
+>
+    <presentationStages>
+        <stage name="Title" folder="Title" id="1"/>
+    </presentationStages>
+    <regularStages>
+        <stage name="Zone 1" folder="Z1" id="1" highlight="true"/>
+        <stage name="Zone 3" folder="Z1" id="2"/>
+    </regularStages>
+</game>
